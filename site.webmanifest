@@ -1,0 +1,50 @@
+{
+  "name": "Plus62store Lite",
+  "short_name": "plus62store",
+  "description": "Jual Produk Dan Jasa Bordir",
+  "lang": "id",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f8",
+  "theme_color": "#f7f7f8",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-Prw0GOH4y5E/X2ZgizDIiOI/AAAAAAAAFZ4/xdHlrSCf-wwSuTX2ayOEtSSmurH5YFJUACLcBGAsYHQ/s0/128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+	  "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-STzTTIppZp4/X2Zgiz2BesI/AAAAAAAAFZw/mqcgW6YmOPEaqmgDXatfDB7ez8BpYraKgCLcBGAsYHQ/s0/144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+	  "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-ChWogxv5Np8/X2Zgiy5LyyI/AAAAAAAAFZ0/90C9leiX4PkTzKFwk7cJia8VPOufk8rYQCLcBGAsYHQ/s0/152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+	  "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Gtp3Um9b4PM/X1XFVNxLdkI/AAAAAAAAFNw/_G4vvEFnSwQgf3H61zvt_Iyw5s9w2HYIACLcBGAsYHQ/s192/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+	  "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-EsfKC_jplQQ/X2Zgj5LQu4I/AAAAAAAAFaA/4A6adk0ZWzsVDWlf0-oOMzzpqOt2lj1GACLcBGAsYHQ/s0/256x256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+	  "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-1oOmS9jDL5s/X1XFVEpwu9I/AAAAAAAAFOM/J5J6i8MbNrgANKkIuoaa2cEvOjA2ZqmgACPcBGAYYCw/s0/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+	  "purpose": "any maskable"
+    }
+  ],
+
+ "gcm_sender_id": "681231855514"
+}
